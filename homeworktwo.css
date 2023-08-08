@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blackbox{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding: 150px;
+
+}
+
+.flexbox{
+padding-top: 50px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.footer {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding:150px;
+}
